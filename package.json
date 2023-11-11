@@ -1,7 +1,7 @@
 {
   "name": "fundamentos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desafio de código proposto para criar o Dio Bank",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev app.ts",
